@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+
+# Leftover uv project files, not used by the lab code
+Lab01/pyproject.toml
+Lab01/uv.lock
