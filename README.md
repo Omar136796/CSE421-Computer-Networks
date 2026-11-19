@@ -1,6 +1,6 @@
 # CSE421 – Computer Networks Lab (BRAC University)
 
-Lab work from CSE421 (Computer Networks) at BRAC University. Covers socket
+Lab work from CSE421 : Computer Networks (Summer 2025) at BRAC University. Covers socket
 programming in Python, application-layer protocol analysis in Cisco Packet
 Tracer and Wireshark, network simulation with ns-3, and router
 configuration, DHCP, and routing in Cisco Packet Tracer.
